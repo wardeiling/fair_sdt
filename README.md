@@ -26,4 +26,4 @@ Optionally, cite the canonical reference for the theory implemented in this repo
 
 ## Citing this work
 
-See this project's 'Zenodo' page for the preferred citation.
+Eiling, W. B. (2026). FAIR theory: Self-Determination Theory (Version 0.1.1) [Figure]. Zenodo. https://handle.test.datacite.org/10.5072/zenodo.649360
