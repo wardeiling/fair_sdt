@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/github/1473025714.svg)](https://handle.test.datacite.org/10.5072/zenodo.649359)
+
 # FAIR theory: Self-Determination Theory
 
 # Description
